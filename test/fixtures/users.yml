@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+fz:
+  email: fz@apostrophe.org
+  first_name: Frank
+  last_name: Zappa
+  description: Famous and dead musician
+  address: empire_state_building
+
+cb:
+  email: cpt.beefheart@bongofury.org
+  first_name: Don
+  last_name: Van Vliet
+  description: Famous and dead musician and weirdo poet person
+  address: aricebo_observatory

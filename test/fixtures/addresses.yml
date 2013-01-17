@@ -1,0 +1,20 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+# This model initially had no columns defined.  If you add columns to the
+# model remove the '{}' from the fixture names and add the columns immediately
+# below each fixture, per the syntax in the comments below
+#
+
+empire_state_building:
+  street_1: 350 Fifth Ave
+  street_2: !!null
+  city: New York
+  state: NY
+  zip: 10118
+
+aricebo_observatory:
+  street_1: Rt. 625 Bo Esperanza
+  street_2: !!null
+  city: Arecibo
+  state: Puerto Rico
+  zip: 00612
